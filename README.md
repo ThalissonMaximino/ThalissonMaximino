@@ -7,6 +7,8 @@
 
 - Iniciei os meus estudos no front-end e realizei vários projetos até construir uma boa noção de apps em JS,TS e React. **Atualmente estou focando meus estudos no desenvolvimento back-end que é minha maior área de interesse.**
 
+- Estou atualmente trabalhando em um projeto open source da Vacuum, uma comunidade para desenvolvedores, como desenvolvedor front-end. https://github.com/VacuumORG/forum_vacuum
+
 - 📫 Contato **thalissondev1999@gmail.com**
 
 - 📄 Currículo [https://drive.google.com/file/d/1nCNnwEf8d91Xda-EW35uxtzHt-G5oceg/view?usp=sharing](https://drive.google.com/file/d/1nCNnwEf8d91Xda-EW35uxtzHt-G5oceg/view?usp=sharing)
