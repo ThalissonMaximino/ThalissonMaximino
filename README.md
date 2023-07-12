@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Thalisson Maximino, seja bem-vindo ao meu github ^^</h1>
+<h1 align="center">console.log(Olá, eu sou o Thalisson (: )</h1>
 <h3 align="center">Desenvolvedor Web Fullstack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalissonmaximino&label=Profile%20views&color=0e75b6&style=flat" alt="thalissonmaximino" /> </p>
