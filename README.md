@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalissonmaximino&label=Profile%20views&color=0e75b6&style=flat" alt="thalissonmaximino" /> </p>
 
-- Atualmente tenho conhecimento nas linguagens de progamação JavaScript e diversos de seus frameworks como React, Node.js e Express, e também em Python. **Estou sempre em busca de melhorar os meus conhecimentos e me aprofundar mais na área.**
-
+- Atualmente tenho conhecimento nas linguagens de progamação JavaScript e diversos de seus frameworks como React, Node.js e Express.
+- Também possuo conhecimento em Python e em frameworks como Django.
 - Iniciei os meus estudos no front-end e realizei vários projetos até construir uma boa noção de apps em JS,TS e React. **Atualmente estou focando meus estudos no desenvolvimento back-end que é minha maior área de interesse.**
 
 - Estou atualmente trabalhando em um projeto open source da Vacuum, uma comunidade para desenvolvedores, como desenvolvedor front-end. https://github.com/VacuumORG/forum_vacuum
