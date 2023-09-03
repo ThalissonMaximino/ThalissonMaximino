@@ -6,7 +6,7 @@
 - Atualmente tenho conhecimento nas linguagens de progamação JavaScript e diversos de seus frameworks como React, Node.js e Express.
 - Também possuo conhecimento em Python e em frameworks como Django.
 
-- Estou atualmente trabalhando em um projeto open source da Vacuum, uma comunidade para desenvolvedores, como desenvolvedor front-end. https://github.com/VacuumORG/forum_vacuum
+
 
 - 📫 Contato **thalissondev1999@gmail.com**
 
