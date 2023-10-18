@@ -10,7 +10,7 @@
 
 - 📫 Contato **thalissondev1999@gmail.com**
 
-- 📄 Currículo [https://drive.google.com/file/d/1nCNnwEf8d91Xda-EW35uxtzHt-G5oceg/view?usp=sharing](https://drive.google.com/file/d/1nCNnwEf8d91Xda-EW35uxtzHt-G5oceg/view?usp=sharing)
+- 📄 Currículo [[https://drive.google.com/file/d/1nCNnwEf8d91Xda-EW35uxtzHt-G5oceg/view?usp=sharing](https://drive.google.com/file/d/1nCNnwEf8d91Xda-EW35uxtzHt-G5oceg/view?usp=sharing](https://docs.google.com/document/d/1zqZr2zx-CbUWiyKJRsBUo7B2NQ_mXwikxX1ccjOgN_Q/edit?usp=share_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
