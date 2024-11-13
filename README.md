@@ -1,16 +1,17 @@
 <h1 align="center">"Present Day. Present Time." — Exploring the depths of code and reality.</h1>
-<h3 align="center">Desenvolvedor Web Fullstack.</h3>
+<h3 align="center">Fullstack developer focused on web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalissonmaximino&label=Profile%20views&color=0e75b6&style=flat" alt="thalissonmaximino" /> </p>
 
-- Atualmente tenho conhecimento nas linguagens de progamação JavaScript e diversos de seus frameworks como React, Node.js e Express.
-- Também possuo conhecimento em Python e em frameworks como Django.
+- Front-end side I'm experienced on working with javascript,typescript, react and tailwind.
+- Also, for back-end I have experience with django, node.js and postgresSQL, SQL and sqlite for databases.
+- Currently working on Cognitiva Brasil, developing web projects and making integrations with AI solutions for this projects.
 
 
 
-- 📫 Contato **thalissondev1999@gmail.com**
+- 📫 Contact: **thalissondev1999@gmail.com**
 
-- 📄 Currículo https://drive.google.com/file/d/1XoQOb0YTH9JNAK8nRi1aRyQ3WT0eGYM4/view?usp=share_link
+- 📄 Resumee https://drive.google.com/file/d/1XoQOb0YTH9JNAK8nRi1aRyQ3WT0eGYM4/view?usp=share_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
