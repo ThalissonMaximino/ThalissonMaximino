@@ -10,7 +10,7 @@
 
 - 📫 Contact: **thalissondev1999@gmail.com**
 
-- 📄 Resumee right now I'm updating my resumee and will post a new one soon.
+- 📄 Resumee: right now I'm updating my resumee and will post a new one soon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
