@@ -10,7 +10,7 @@
 
 - 📫 Contact: **thalissondev1999@gmail.com**
 
-- 📄 Resumee https://drive.google.com/file/d/1XoQOb0YTH9JNAK8nRi1aRyQ3WT0eGYM4/view?usp=share_link
+- 📄 Resumee right now I'm updating my resumee and will post a new one soon.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
