@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalissonmaximino&label=Profile%20views&color=0e75b6&style=flat" alt="thalissonmaximino" /> </p>
 
-- On the front-end, I specialize in JavaScript, TypeScript, React, and Tailwind.
-- For the back-end, I have hands-on experience with Django and Node.js, and I work with databases like PostgreSQL, SQL, and SQLite.
-- I'm currently working at Cognitiva Brasil, where I develop web projects and integrate AI solutions to enhance these applications.
+- Frontend techs: JavaScript, TypeScript, React, Tailwind
+- Backend techs: Django, Node.js, Java, Springboot
+- Databases I've worked with: PostgreSQL, SQL, MySQL
+- I'm currently working at Cognitiva Brasil, where I develop fullstack web projects and integrate AI solutions to enhance these applications.
 
 
 - 📫 Contact: **thalissondev1999@gmail.com**
