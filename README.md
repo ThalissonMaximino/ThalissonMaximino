@@ -2,7 +2,7 @@
 > Present Day. Present Time. Exploring the depths of code and reality.
 ```
 
-<img align="left" src="https://i.pinimg.com/736x/e5/e9/b9/e5e9b94e20fdf24ae4d2a5313ee6db78.jpg" alt="cyber aesthetic" width="320" />
+<img align="left" src="https://i.pinimg.com/736x/04/49/00/0449009c0048e2d428c0c6ea9d5c517c.jpg" width="320" />
 
 ```csharp
 thalissonmaximino@github
